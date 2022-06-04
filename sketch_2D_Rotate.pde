@@ -1,4 +1,4 @@
-//rotate
+//Rotate
 size (500, 400);
 smooth();
 
