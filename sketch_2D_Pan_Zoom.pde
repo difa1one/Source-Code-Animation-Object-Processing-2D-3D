@@ -1,4 +1,4 @@
-//Pan and zoom Doraemon
+//Pan and Zoom Doraemon
 float scale = 1;
 float xPan = 350;
 float yPan = 300;
